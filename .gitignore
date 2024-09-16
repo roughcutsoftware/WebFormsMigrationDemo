@@ -35,3 +35,5 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+/Source/HiringTrackingSite/App_Data/HiringDb.mdf
+/Source/HiringTrackingSite/App_Data/HiringDb_log.ldf
