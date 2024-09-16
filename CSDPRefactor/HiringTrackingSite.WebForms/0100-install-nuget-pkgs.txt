@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/32780315/could-not-find-a-part-of-the-path-bin-roslyn-csc-exe
+rem Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
+NuGet\Install-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -Version 2.0.1

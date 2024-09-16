@@ -1,0 +1,15 @@
+Updated Solution GuidId from original - this done for how Visual Studio workings when displaying 'solutions/projects' 
+	from {FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}
+	to ->
+	{AB7ECB7E-A43A-4E67-BA15-9AAEF923CBE1}
+
+Updated main/original project GuidId and name:
+	from {E129CCE9-B99A-42DC-817F-43FD4C05B2EF}
+	to ->
+	{C83090E6-2E23-4B39-A7F7-111550FD2A2C}
+And project-csproj file name from/to:
+	from: HiringTrackingSite
+	to ->
+	HiringTrackingSite.WebForms
+
+	

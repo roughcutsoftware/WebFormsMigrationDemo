@@ -101,6 +101,8 @@ namespace WebSite
             // app.UseAntiforgeryToken();
             app.UseWebMap();
             app.UseRouting();
+
+            // 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute("DefaultApi", "api/{controller}/{id}");
